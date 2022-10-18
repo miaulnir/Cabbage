@@ -1,1 +1,0 @@
-../../Cabbage/Sources/Track/Resource/PHAssetImageResource.swift
